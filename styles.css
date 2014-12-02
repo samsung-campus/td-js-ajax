@@ -1,0 +1,24 @@
+.textbox {
+    width: 100%;
+    height: 95%;
+    border: 1px solid;
+    overflow-y:auto;
+}
+
+.userbox {
+    width: 100%;
+    height: 4%;
+    border: 1px solid;
+}
+
+.userbox input {
+    display: inline;
+}
+
+.userbox input[type=text] {
+    width: 90%;
+}
+
+.userbox input[type=button] {
+    width: 10%;
+}
